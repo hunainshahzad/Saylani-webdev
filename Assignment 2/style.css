@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    color: rgb(255, 255, 255);
+    
+}
+.logo {
+    text-align: center;
+    text-transform: uppercase;
+    color: #8a2be2;
+}
+.container{
+    background-color: #8a2be2;
+    margin: 250px;
+    padding: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-collapse: collapse; 
+    border: 1px solid navy;
+    border-radius: none;
+    
+    
+}
+.container form {
+    color: #ffffff;
+    text-transform: uppercase;
+
+}
+.wrapper{
+    margin: 20px;
+    padding: 20px;
+}
+.wrapper h1, h3, h2{
+    margin-top: 20px;
+}
+h2{
+    color: #8a2be2;
+}
+
+
+.container div{
+    display: inline-block;
+}
+
+.container .field{
+   margin-bottom:20px;
+}
+
+.container .field .label {
+    width: 150px;
+    color: #fff;
+}
+.field input{
+    width: 200px;
+}
+
+input[type=radio]{
+    width:15px;
+}
+input[type=checkbox]{
+    width:30px;
+}
+button{
+    text-align: center;
+    outline: none;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+button > a{
+    color: #000;
+    text-decoration: none;
+}
+.others{
+    margin-left: 150px;
+}
+select{
+    width: 65px;
+}
