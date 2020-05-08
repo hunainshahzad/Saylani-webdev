@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.buttons a {
+ padding: 2px;
+}
+
+.topbar {
+    background-color: #2471A3;
+}
+
+.copyright {
+    background-color: #2471A3;
+}
+
+.paragraphs {
+    margin: 150px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.separator {
+    background-color: green;
+    width: 70px;
+    height: 3px;
+    display: block;
+}
+
+.project marquee {
+    height: 200px;
+}
+
+.header {
+    background-color: #f7f8fa;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    width: 180px;
+}
+
+.menu {
+    float: right;
+    margin-top: 15px;
+    position: sticky;
+    top: 0;
+}
+.menu ul li{
+    display: inline-block;
+    opacity: 1;
+}
+
+.menu ul li a{
+    padding: 5px 12px;
+    color: black;
+    text-decoration: none;
+    opacity: 1;
+}
+
+.menu ul li a:hover{
+    background-color: royalblue;
+    color: #fff;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.header {
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    
+}
+
