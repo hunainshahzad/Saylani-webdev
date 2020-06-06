@@ -1,0 +1,100 @@
+.navbar{
+    background-color:  	rgb(35, 34, 39) !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+.navbar-nav li a:hover{
+    background-color: burlywood;
+   
+    border-radius:3px;
+    transition: 0.5s ease;
+}
+
+.card{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9_cs2FecGp6mBm9cwmrHltmiUIEB6VJ-ptBBvGyuxYVkEmwdG&usqp=CAU) !important;
+    background-attachment: fixed;
+    background-size:cover;
+    color: white;
+}
+
+.part-2{
+    background-color: rgba(0,0,0,0.4);
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    /* padding: 30px; */
+    ;
+
+}
+
+
+/*                          map      */
+.google-maps{
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90% !important;
+    height: 90% !important;
+    margin: 5%;
+    border-radius: 10px;
+    box-shadow: 7px 9px 2px grey;
+}
+
+
+
+
+
+.new {
+    padding: 30px;
+}
+/* 
+.contact-section{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzztPdoi0IqQUgojE5eLgKrfAcVQY8LIkFXedxz7eP35DPVK6z&usqp=CAU) !important;
+    background-attachment: fixed;
+    background-size:cover;
+} */
+/* .form{
+    color: royalblue !important;
+} */
+/* .section{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzztPdoi0IqQUgojE5eLgKrfAcVQY8LIkFXedxz7eP35DPVK6z&usqp=CAU);
+    background-attachment: fixed;
+    background-size:cover;
+
+} */
+
+
+.footer-1 a{
+    color: white;
+}
+.footer-1 h6{
+    color: white;
+}
+
+.footer-copyright {
+    background-color:  	rgb(56, 59, 57) !important;
+    color: white;
+}
+/* .container{
+
+    margin-top: 0px;
+} */
+
+.page-footer{
+    color: white;
+}
+
+.footer-2{
+    color:  rgb(92, 99, 94);
+}

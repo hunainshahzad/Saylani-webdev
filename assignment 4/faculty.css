@@ -1,0 +1,62 @@
+.navbar{
+    background-color:  	rgb(35, 34, 39) !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+
+
+.navbar-nav li a:hover{
+    background-color: burlywood;
+   
+    border-radius:3px;
+    transition: 0.5s ease;
+}
+.footer-1 a{
+    color: white;
+}
+.footer-1 h6{
+    color: white;
+}
+
+.footer-copyright {
+    background-color:  	rgb(35, 34, 39) !important;
+    color: white;
+}
+/* .container{
+
+    margin-top: 0px;
+} */
+
+.page-footer{
+    color: white;
+}
+
+.footer-2{
+    color:  rgb(92, 99, 94);
+}
+
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: left;
+    width: 25%;
+    max-width: 100%; } }
+    
+    .carousel-multi-item-2 .card img {
+    border-radius: 2px; }
+
+    .gallery{
+        margin: 30px;
+    }
+    .gallery h1{
+        text-align: center;
+        color:rgb(137, 189, 154) !important;;
+        margin-bottom: 30px;
+        text-decoration: underline ;
+        color: rgb(143, 188, 158);
+        /* text-decoration: underline; */
+        text-shadow: 3px 2px burlywood;
+    }

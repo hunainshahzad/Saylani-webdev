@@ -1,0 +1,158 @@
+.navbar{
+    background-color:  	rgb(35, 34, 39) !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+
+.search-form{
+    width:430px !important;
+}
+
+.navbar{
+
+    max-width: 100%;
+    width: 100%;
+    position: sticky;
+    top: 0%;
+}
+.navbar-nav li a:hover{
+    background-color: burlywood;
+   
+    border-radius:3px;
+    transition: 0.5s ease;
+}
+.intro{
+    margin-top: 40px;
+}
+.intro h2{
+    color:rgb(137, 189, 154);
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.intro p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 5px 10px 5px 10px;
+}
+
+.vission{
+    border: rgb(137, 189, 154) 2px solid;
+    padding: 2px;
+    text-align: justify;
+    margin-right: 40px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 4px 7px 7px  rgb(137, 189, 154);
+/*     
+    background-color: blanchedalmond; */
+      
+}
+.vission-inner i{
+    align-content: center !important;
+    color:  rgb(99, 209, 137);;
+    align-items: center !important;
+    text-align: center !important;
+    /* margin: 5px !important; */
+}
+.scope{
+    font-size: 18px !important;
+    text-align: justify !important;
+    /* color: blu */
+}
+.heading{
+    text-align: center;
+    margin-bottom: 40px;
+    color:rgb(137, 189, 154) !important;
+    text-decoration: underline !important;
+}
+/* .heading-1{
+    color: purple;
+}
+.heading-2{
+    color: saddlebrown;
+} */
+
+.vission  .fa-users, .fa-low-vision, .fa-accessible-icon{
+    align-content: center;
+    font-size: 70px !important;
+    
+}
+.scope{
+    padding: 10px;
+    margin-top: 5px;
+}
+.section-1{
+    padding: 10vmin 0;
+}
+ .img-1{
+     padding: 10px;
+     /* margin-right: 10px; */
+ }
+.box{
+    padding-right: 10px;
+    box-sizing: border-box;
+    margin-top: 40px;
+
+}
+
+.news-letter .card{
+    background-color: rgb(137, 189, 154)	;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 30px;
+}
+.btn-new{
+    background-color:  	gray;
+    color: white;
+    /* border:  	burlywood 2px solid; */
+    text-decoration: bold;
+}
+.btn-new:hover{
+    background-color: lightsalmon !important;
+    /* border: lightgreen 2px solid; */
+    color: white;
+    /* background-color: violet !important; */
+}
+.news{
+    /* color:  	palevioletred;
+    text-decoration: bold; */
+}
+.letter{
+    /* color: saddlebrown; */
+}
+.form{
+    justify-content: center !important;
+}
+
+
+.footer-1 a{
+    color: white;
+}
+.footer-1 h6{
+    color: white;
+}
+
+.footer-copyright {
+    background-color:  	rgb(56, 59, 57) !important;
+    color: white;
+}
+/* .container{
+
+    margin-top: 0px;
+} */
+
+.page-footer{
+    color: white;
+}
+
+.footer-2{
+    color:  rgb(92, 99, 94);
+}

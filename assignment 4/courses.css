@@ -1,0 +1,66 @@
+.navbar{
+    background-color:  	rgb(35, 34, 39) !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+
+.navbar-nav li a:hover{
+    background-color: burlywood;
+   
+    border-radius:3px;
+    transition: 0.5s ease;
+}
+
+
+.card img{
+    height: 30% !important;
+    padding: 10px;
+    align-content: center;
+    
+}
+.courses{
+    margin-top: 50px;
+   
+}
+.courses h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(143, 188, 158);
+    /* text-decoration: underline; */
+    text-shadow: 2px 2px 2px black;
+}
+.courses h2{
+    margin-bottom: 20px;
+    color: rgb(143, 188, 158);
+    /* text-decoration: underline; */
+    text-shadow: 2px 2px 2px brown;
+    text-align: center;
+}
+
+.footer-1 a{
+    color: white;
+}
+.footer-1 h6{
+    color: white;
+}
+
+.footer-copyright {
+    background-color:  	rgb(56, 59, 57) !important;
+    color: white;
+}
+/* .container{
+
+    margin-top: 0px;
+} */
+
+.page-footer{
+    color: white;
+}
+
+.footer-2{
+    color:  rgb(92, 99, 94);
+}

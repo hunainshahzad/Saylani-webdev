@@ -1,0 +1,76 @@
+.navbar{
+    background-color:  	rgb(35, 34, 39) !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+.navbar-nav li a:hover{
+    background-color: burlywood;
+   
+    border-radius:3px;
+    transition: 0.5s ease;
+}
+.portion{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/20014807/thumb/1.jpg?ip=x480);
+    background-attachment: fixed;
+    background-size:cover;
+    color: white;
+    padding: 30px !important;
+    
+}
+.img{
+    padding: 30px;
+}
+.portion-1{
+    padding:20px;
+    margin-top: 30px;
+    padding-right: 40px;
+}
+.portion-1 h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.portion-1 p{
+    margin-top: 10px;
+    text-align: justify;
+    padding-left: 10px;
+}
+.portion-2{
+    background-color: rgba(0,0,0,0.4);
+    margin: 30px 0px 15px 0px;
+}
+.portion-2 h2{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.form{
+    margin: 50px;
+}
+
+.footer-1 a{
+    color: white;
+}
+.footer-1 h6{
+    color: white;
+}
+
+.footer-copyright {
+    background-color:  	rgb(56, 59, 57) !important;
+    color: white;
+}
+/* .container{
+
+    margin-top: 0px;
+} */
+
+.page-footer{
+    color: white;
+}
+
+.footer-2{
+    color:  rgb(92, 99, 94);
+}
